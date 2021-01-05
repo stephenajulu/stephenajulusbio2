@@ -278,7 +278,7 @@ button:hover,
   filter: brightness(90%) }
 
 /* Resume */
-.button.button-resume {
+.button.button-universal {
   color: #000000;
   background-color: #FFFFFF }
 .button.button-medium:hover,
