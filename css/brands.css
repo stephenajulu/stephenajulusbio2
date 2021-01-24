@@ -288,7 +288,7 @@ button:hover,
 /* Portfolio */
 .button.button-portfolio {
   color: #FFFFFF;
-  background-color: #2746DEF }
+  background-color: #0000FF }
 .button.button-portfolio:hover,
 .button.button-portfolio:focus {
   filter: brightness(90%) }
