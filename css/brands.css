@@ -277,7 +277,7 @@ button:hover,
 .button.button-wordpress:focus {
   filter: brightness(90%) }
 
-/* Resume */
+/* Universal */
 .button.button-universal {
   color: #000000;
   background-color: #FFFFFF }
@@ -285,7 +285,7 @@ button:hover,
 .button.button-universal:focus {
   filter: brightness(90%) }
 
-/* Resume */
+/* Portfolio */
 .button.button-portfolio {
   color: #000000;
   background-color: #2746DEF }
