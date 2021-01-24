@@ -281,6 +281,14 @@ button:hover,
 .button.button-universal {
   color: #000000;
   background-color: #FFFFFF }
-.button.button-medium:hover,
-.button.button-medium:focus {
+.button.button-universal:hover,
+.button.button-universal:focus {
+  filter: brightness(90%) }
+
+/* Resume */
+.button.button-portfolio {
+  color: #000000;
+  background-color: #2746DEF }
+.button.button-portfolio:hover,
+.button.button-portfolio:focus {
   filter: brightness(90%) }
